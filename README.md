@@ -14,4 +14,3 @@ Anyone can include it in their website without installing anything. Just copy an
 ### 2. use icons this 
 <i class="fa-light fa-folder-open"></i>
 <i class="fa-light fa-folder-open"></i>
-
